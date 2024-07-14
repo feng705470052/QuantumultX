@@ -1,4 +1,5 @@
 # cc公益服
-DOMAIN-SUFFIX,coemn.com
-DOMAIN-SUFFIX,carryz.net
+HOST,cc.coemn.com,PROXY
+HOST-SUFFIX,cc.ccemby.tk,PROXY
+HOST-SUFFIX,carryz.net,PROXY
 
