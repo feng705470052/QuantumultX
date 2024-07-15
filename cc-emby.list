@@ -1,6 +1,6 @@
 # 来源：https://raw.githubusercontent.com/Repcz/Tool/X/QuantumultX/Rules/Emby.list
 # cc公益服
-HOST,cc.coemn.com,PROXY
-HOST-SUFFIX,cc.ccemby.tk,PROXY
-HOST-SUFFIX,carryz.net,PROXY
+HOST,cc.coemn.com
+HOST-SUFFIX,cc.ccemby.tk
+HOST-SUFFIX,carryz.net
 
