@@ -11,7 +11,7 @@ payload:
     - +.emby.prprcloud.com
     - +.emby.nyancat.net
     - +.emby.plusmedia.site
-    - +.emby    -cf.plusmedia.site
+    - +.emby-cf.plusmedia.site
     - +.emby.xeton.dev
     - +.jellyfin.xeton.dev
     - +.movie.xeton.dev
