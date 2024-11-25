@@ -131,4 +131,5 @@ DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
 # ACA & MisakaF
 HOST-SUFFIX,emby.aca.best
+HOST-SUFFIX,aca.misakaf.org
 HOST-SUFFIX,porn.aca.best
