@@ -1,0 +1,8 @@
+#来源 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TelegramUS/TelegramUS.list
+payload:
+    -
+    - cinema.makima.online
+    - theater.makima.online
+    - anime.makima.online
+    - celluloid.makima.online
+    - restrict.makima.online
