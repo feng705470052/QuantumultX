@@ -2,6 +2,7 @@
 #加上了 aca emby
 payload:
     - +.emby.nexitally.com
+    - +.313445.xyz
     - +.emby.cjpc.cc
     - +.emby.flowercloud.yt
     - +.emby.maying.club
