@@ -1,7 +1,7 @@
 #来源 :https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
 #加上了 aca emby
 payload:
-    - +.okemby.org
+#    - +.okemby.org
     - +.emby.nexitally.com
     - +.313445.xyz
     - +.emby.cjpc.cc
