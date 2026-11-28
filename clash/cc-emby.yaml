@@ -22,4 +22,4 @@ payload:
   - DOMAIN-SUFFIX,ibukifuko.tech
   - DOMAIN-SUFFIX,5671234.xyz
   - DOMAIN-SUFFIX,thxnk.cc
-  - IP-CIDR,152.53.243.160
+  - IP-CIDR,- IP-CIDR,152.53.243.160/32
